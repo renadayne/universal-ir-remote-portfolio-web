@@ -8,7 +8,7 @@ This project aims to create a course portfolio.
 
 A few resources to get you started:
 
-- [Templates: Find other templates on Colorlib](colorlib.com)
+- [Templates: Find other templates on Colorlib](https://colorlib.com/)
 - [CSS: Learn CSS In 20 Minutes](https://www.youtube.com/watch?v=1PnVor36_40)
 
 For help getting started with CSS Projects, view the [CSS Tutorial](https://www.w3schools.com/css/) which offers tutorials,
